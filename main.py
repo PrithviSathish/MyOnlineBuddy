@@ -59,7 +59,7 @@ def search_wiki(event):
     except:
         print("Please enter a valid word!")
 
-    
+
 
 # ----- Creating Background Image ------
 canvas = Canvas(root, width=810, height=600)
